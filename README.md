@@ -1,8 +1,12 @@
 Overview of Election Audit:
-The purpose of this analysis is to visulize the summary of the total votes (in number and in percentage) by county as well as by candidate in order to identify the winner by name/county.
+The purpose of this analysis is to visualize the summary of the total votes (in number and in percentage) <img width="431" alt="Captura de Pantalla 2022-10-13 a la(s) 18 10 16" src="https://user-images.githubusercontent.com/72363865/195727027-32e717b0-0df0-4ce2-abef-d94947e5e6d7.png">
+by county as well as by candidate in order to identify the winner by name/county.
 
 
 Election-Audit Results: 
+
+![Uploading Captura de Pantalla 2022-10-13 a la(s) 18.10.16.png…]()
+
 
 How many votes were cast in this congressional election?
 369,711 votes
@@ -28,8 +32,11 @@ Which candidate won the election, what was their vote count, and what was their 
 
 
 
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+Election-Audit Summary: 
+
 -The summary can be displayed in many ways, it depends of what information we are interested, we have the option to see the data as the number of votes per county broken down by candidate and the total number of votes per candidate broken down by county.
+
+
 
 
 
